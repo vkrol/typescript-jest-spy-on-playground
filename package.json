@@ -1,0 +1,12 @@
+{
+  "name": "typescript-jest-spy-on-playground",
+  "private": true,
+  "scripts": {
+    "typecheck": "tsc --noEmit foo.test.ts"
+  },
+  "devDependencies": {
+    "@types/jest": "24.0.0",
+    "jest": "24.1.0",
+    "typescript": "3.3.3"
+  }
+}
